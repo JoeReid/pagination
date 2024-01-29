@@ -1,4 +1,5 @@
 [![Go](https://github.com/JoeReid/pagination/actions/workflows/go.yml/badge.svg)](https://github.com/JoeReid/pagination/actions/workflows/go.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/JoeReid/pagination.svg)](https://pkg.go.dev/github.com/JoeReid/pagination)
 
 # Pagination
 
