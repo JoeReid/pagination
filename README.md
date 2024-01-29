@@ -1,3 +1,5 @@
+[![Go](https://github.com/JoeReid/pagination/actions/workflows/go.yml/badge.svg)](https://github.com/JoeReid/pagination/actions/workflows/go.yml)
+
 # Pagination
 
 API pagination is a ubiquitous feature and ocasionaly contraversial topic.
